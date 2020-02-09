@@ -1,0 +1,90 @@
+2020-02-09 11:26:01.549  INFO 6672 --- [main] SpringBoot.SpringBootQuickApplication    : Starting SpringBootQuickApplication on DESKTOP-DMQJFM6 with PID 6672 (D:\eclipse-workspace\SpringBootQuick\target\classes started by Tom in D:\eclipse-workspace\SpringBootQuick)
+2020-02-09 11:26:01.562 DEBUG 6672 --- [main] SpringBoot.SpringBootQuickApplication    : Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-09 11:26:01.563  INFO 6672 --- [main] SpringBoot.SpringBootQuickApplication    : The following profiles are active: prod
+2020-02-09 11:26:03.942  INFO 6672 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-02-09 11:26:03.956  INFO 6672 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-09 11:26:03.980  INFO 6672 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-09 11:26:04.111  INFO 6672 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-09 11:26:04.111  INFO 6672 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2461 ms
+2020-02-09 11:26:04.377  INFO 6672 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-09 11:26:04.463  INFO 6672 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2020-02-09 11:26:04.630  INFO 6672 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-02-09 11:26:04.633  INFO 6672 --- [main] SpringBoot.SpringBootQuickApplication    : Started SpringBootQuickApplication in 3.788 seconds (JVM running for 4.425)
+2020-02-09 11:26:17.064  INFO 6672 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-09 11:26:17.065  INFO 6672 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-02-09 11:26:17.071  INFO 6672 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-02-09 11:27:05.161  INFO 13788 --- [main] SpringBoot.SpringBootQuickApplication    : Starting SpringBootQuickApplication on DESKTOP-DMQJFM6 with PID 13788 (D:\eclipse-workspace\SpringBootQuick\target\classes started by Tom in D:\eclipse-workspace\SpringBootQuick)
+2020-02-09 11:27:05.164 DEBUG 13788 --- [main] SpringBoot.SpringBootQuickApplication    : Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-09 11:27:05.164  INFO 13788 --- [main] SpringBoot.SpringBootQuickApplication    : The following profiles are active: prod
+2020-02-09 11:27:06.552  INFO 13788 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-02-09 11:27:06.566  INFO 13788 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-09 11:27:06.566  INFO 13788 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-09 11:27:06.676  INFO 13788 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-09 11:27:06.676  INFO 13788 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1460 ms
+2020-02-09 11:27:06.896  INFO 13788 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-09 11:27:06.976  INFO 13788 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2020-02-09 11:27:07.116  INFO 13788 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-02-09 11:27:07.126  INFO 13788 --- [main] SpringBoot.SpringBootQuickApplication    : Started SpringBootQuickApplication in 2.468 seconds (JVM running for 2.955)
+2020-02-09 11:27:20.942  INFO 13788 --- [http-nio-80-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-09 11:27:20.943  INFO 13788 --- [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-02-09 11:27:20.949  INFO 13788 --- [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-02-09 11:43:44.213  INFO 4268 --- [main] SpringBoot.SpringBootQuickApplication    : Starting SpringBootQuickApplication on DESKTOP-DMQJFM6 with PID 4268 (D:\eclipse-workspace\SpringBootQuick\target\classes started by Tom in D:\eclipse-workspace\SpringBootQuick)
+2020-02-09 11:43:44.217 DEBUG 4268 --- [main] SpringBoot.SpringBootQuickApplication    : Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-09 11:43:44.218  INFO 4268 --- [main] SpringBoot.SpringBootQuickApplication    : The following profiles are active: prod
+2020-02-09 11:43:45.875  INFO 4268 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-02-09 11:43:45.888  INFO 4268 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-09 11:43:45.888  INFO 4268 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-09 11:43:46.011  INFO 4268 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-09 11:43:46.012  INFO 4268 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1718 ms
+2020-02-09 11:43:46.264  INFO 4268 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-09 11:43:46.365  INFO 4268 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2020-02-09 11:43:46.545  INFO 4268 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-02-09 11:43:46.550  INFO 4268 --- [main] SpringBoot.SpringBootQuickApplication    : Started SpringBootQuickApplication in 2.886 seconds (JVM running for 3.57)
+2020-02-09 11:44:12.444  INFO 4268 --- [http-nio-80-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-09 11:44:12.445  INFO 4268 --- [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-02-09 11:44:12.452  INFO 4268 --- [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2020-02-09 11:44:41.363  INFO 4940 --- [main] SpringBoot.SpringBootQuickApplication    : Starting SpringBootQuickApplication on DESKTOP-DMQJFM6 with PID 4940 (D:\eclipse-workspace\SpringBootQuick\target\classes started by Tom in D:\eclipse-workspace\SpringBootQuick)
+2020-02-09 11:44:41.366 DEBUG 4940 --- [main] SpringBoot.SpringBootQuickApplication    : Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-09 11:44:41.367  INFO 4940 --- [main] SpringBoot.SpringBootQuickApplication    : The following profiles are active: prod
+2020-02-09 11:44:42.944  INFO 4940 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-02-09 11:44:42.958  INFO 4940 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-09 11:44:42.958  INFO 4940 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-09 11:44:43.070  INFO 4940 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-09 11:44:43.071  INFO 4940 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1639 ms
+2020-02-09 11:44:43.312  INFO 4940 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-09 11:44:43.399  INFO 4940 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2020-02-09 11:44:43.561  INFO 4940 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-02-09 11:44:43.565  INFO 4940 --- [main] SpringBoot.SpringBootQuickApplication    : Started SpringBootQuickApplication in 2.734 seconds (JVM running for 3.273)
+2020-02-09 11:44:49.721  INFO 4940 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-09 11:44:49.721  INFO 4940 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-02-09 11:44:49.727  INFO 4940 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-02-09 11:48:08.181  INFO 11636 --- [main] SpringBoot.SpringBootQuickApplication    : Starting SpringBootQuickApplication on DESKTOP-DMQJFM6 with PID 11636 (D:\eclipse-workspace\SpringBootQuick\target\classes started by Tom in D:\eclipse-workspace\SpringBootQuick)
+2020-02-09 11:48:08.185 DEBUG 11636 --- [main] SpringBoot.SpringBootQuickApplication    : Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-09 11:48:08.186  INFO 11636 --- [main] SpringBoot.SpringBootQuickApplication    : The following profiles are active: prod
+2020-02-09 11:48:09.823  INFO 11636 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-02-09 11:48:09.839  INFO 11636 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-09 11:48:09.840  INFO 11636 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-09 11:48:09.984  INFO 11636 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-09 11:48:09.984  INFO 11636 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1720 ms
+2020-02-09 11:48:10.268  INFO 11636 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-09 11:48:10.377  INFO 11636 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2020-02-09 11:48:10.547  INFO 11636 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-02-09 11:48:10.552  INFO 11636 --- [main] SpringBoot.SpringBootQuickApplication    : Started SpringBootQuickApplication in 2.982 seconds (JVM running for 3.58)
+2020-02-09 11:51:43.506  INFO 11636 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-09 11:51:43.506  INFO 11636 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-02-09 11:51:43.514  INFO 11636 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2020-02-09 12:42:45.957  INFO 13084 --- [main] SpringBoot.SpringBootQuickApplication    : Starting SpringBootQuickApplication on DESKTOP-DMQJFM6 with PID 13084 (D:\eclipse-workspace\SpringBootQuick\target\classes started by Tom in D:\eclipse-workspace\SpringBootQuick)
+2020-02-09 12:42:45.961 DEBUG 13084 --- [main] SpringBoot.SpringBootQuickApplication    : Running with Spring Boot v2.2.4.RELEASE, Spring v5.2.3.RELEASE
+2020-02-09 12:42:45.961  INFO 13084 --- [main] SpringBoot.SpringBootQuickApplication    : The following profiles are active: prod
+2020-02-09 12:42:47.594  INFO 13084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 80 (http)
+2020-02-09 12:42:47.608  INFO 13084 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-09 12:42:47.609  INFO 13084 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-09 12:42:47.732  INFO 13084 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-09 12:42:47.732  INFO 13084 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1700 ms
+2020-02-09 12:42:47.977  INFO 13084 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-09 12:42:48.066  INFO 13084 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2020-02-09 12:42:48.227  INFO 13084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 80 (http) with context path ''
+2020-02-09 12:42:48.230  INFO 13084 --- [main] SpringBoot.SpringBootQuickApplication    : Started SpringBootQuickApplication in 2.839 seconds (JVM running for 3.434)
+2020-02-09 12:43:32.763  INFO 13084 --- [http-nio-80-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-09 12:43:32.763  INFO 13084 --- [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-02-09 12:43:32.770  INFO 13084 --- [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
