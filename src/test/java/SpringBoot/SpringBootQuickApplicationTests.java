@@ -1,5 +1,10 @@
 package SpringBoot;
 
+import java.sql.Connection;
+import java.sql.SQLException;
+
+import javax.sql.DataSource;
+
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
 import org.slf4j.Logger;
@@ -16,6 +21,9 @@ import SpringBoot.bean.Person;
 class SpringBootQuickApplicationTests {
 
 	@Autowired
+	DataSource dataSource;
+	
+	@Autowired
 	Person person;
 	
 	@Autowired
@@ -29,12 +37,18 @@ class SpringBootQuickApplicationTests {
 //	}
 //	
 	@Test
-	void contextLoads() {
-		logger.trace("trace");
-		logger.debug("debug");
-		logger.info("info");
-		logger.warn("warn");
-		logger.error("error");
+	void contextLoads() throws SQLException {
+//		logger.trace("trace");
+//		logger.debug("debug");
+//		logger.info("info");
+//		logger.warn("warn");
+//		logger.error("error");
+		
+		System.out.println(dataSource.getClass());
+		Connection connection = dataSource.getConnection();
+		System.out.println(connection);
+		connection.close();
+		
 	}
 
 }
