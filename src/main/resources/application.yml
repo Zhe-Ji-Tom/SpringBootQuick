@@ -6,7 +6,8 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
 #    initialization-mode: always
 #    schema:
-#      - classpath:department.sql
+#      - classpath:sql/department.sql
+#      - classpath:sql/employee.sql
     type: com.alibaba.druid.pool.DruidDataSource
     
     #   数据源其他配置
@@ -26,4 +27,8 @@ spring:
     maxPoolPreparedStatementPerConnectionSize: 20
     useGlobalDataSourceStat: true  
     connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
+    
+mybatis:
+  config-location: classpath:mybits/mybatis-config.xml
+  mapper-locations: classpath:mybits/mapper/*.xml
     

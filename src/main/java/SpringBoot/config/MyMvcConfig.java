@@ -27,7 +27,7 @@ public class MyMvcConfig implements WebMvcConfigurer{
 		// TODO Auto-generated method stub
 		registry.addInterceptor(new LoginHandlerInterceptor()).addPathPatterns("/**")
 				.excludePathPatterns("/index.html", "/", "/user/login", "/asserts/**", "/webjars/**", "/query",
-				    "/druid");
+				    "/druid", "/dept/**", "/emp/**");
 	}
 
 	@Bean
